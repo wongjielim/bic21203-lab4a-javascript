@@ -19,4 +19,7 @@ Generates an ordered list containing numbers from 1 to 5 using a JavaScript for 
 4. Test the functions using the buttons.
 
 ## Screenshots
-Insert screenshots of the outputs for each question here.
+**Question 1:** <img width="2880" height="1620" alt="Screenshot 2026-11-17 110246" src="https://github.com/user-attachments/assets/683c7255-318e-4a39-b066-929fe1b230ec" /> <img width="2880" height="1620" alt="Screenshot 2026-11-17 110305" src="https://github.com/user-attachments/assets/0c1325ff-1f89-4b5e-9280-3d70357b8e0f" />
+
+
+
