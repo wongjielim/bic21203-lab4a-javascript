@@ -1,4 +1,4 @@
-# bic21203-lab4a-javascript
+# BIC21203-lab4a-JavaScript
 
 **Name:** Wong Jie Lim
 **Student ID:** AI240152
